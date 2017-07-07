@@ -18,8 +18,8 @@ gem 'carrierwave',             '1.1.0'
 # gem 'carrierwave'
 
 gem 'mini_magick',             '4.7.0'
-gem 'fog'
-# gem 'fog',                     '1.40.0'
+# gem 'fog'
+gem 'fog',                     '1.40.0'
 
 
 # Use sqlite3 as the database for Active Record
